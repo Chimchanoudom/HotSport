@@ -10,3 +10,6 @@ F:\Visual studio\Project\HotSport\HotSport\obj\Debug\HotSport.pdb
 D:\Visual studio\Project\HotSport\HotSport\bin\Debug\HotSport.exe.config
 D:\Visual studio\Project\HotSport\HotSport\obj\Debug\HotSport.exe
 D:\Visual studio\Project\HotSport\HotSport\obj\Debug\HotSport.pdb
+C:\Users\chimc\OneDrive\Documents\GitHub\HotSport\HotSport\bin\Debug\HotSport.exe.config
+C:\Users\chimc\OneDrive\Documents\GitHub\HotSport\HotSport\obj\Debug\HotSport.exe
+C:\Users\chimc\OneDrive\Documents\GitHub\HotSport\HotSport\obj\Debug\HotSport.pdb
