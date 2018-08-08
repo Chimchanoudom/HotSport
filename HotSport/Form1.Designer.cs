@@ -44,7 +44,6 @@
             this.txtSSID.Name = "txtSSID";
             this.txtSSID.Size = new System.Drawing.Size(215, 26);
             this.txtSSID.TabIndex = 0;
-            this.txtSSID.Text = "gg";
             // 
             // txtKey
             // 
@@ -53,7 +52,6 @@
             this.txtKey.Name = "txtKey";
             this.txtKey.Size = new System.Drawing.Size(215, 26);
             this.txtKey.TabIndex = 0;
-            this.txtKey.Text = "12345678";
             // 
             // label1
             // 
