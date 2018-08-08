@@ -1,0 +1,12 @@
+F:\Visual studio\Project\HotSport\HotSport\bin\Debug\HotSport.exe.config
+F:\Visual studio\Project\HotSport\HotSport\bin\Debug\HotSport.exe
+F:\Visual studio\Project\HotSport\HotSport\bin\Debug\HotSport.pdb
+F:\Visual studio\Project\HotSport\HotSport\obj\Debug\HotSport.csprojResolveAssemblyReference.cache
+F:\Visual studio\Project\HotSport\HotSport\obj\Debug\HotSport.Form1.resources
+F:\Visual studio\Project\HotSport\HotSport\obj\Debug\HotSport.Properties.Resources.resources
+F:\Visual studio\Project\HotSport\HotSport\obj\Debug\HotSport.csproj.GenerateResource.Cache
+F:\Visual studio\Project\HotSport\HotSport\obj\Debug\HotSport.exe
+F:\Visual studio\Project\HotSport\HotSport\obj\Debug\HotSport.pdb
+D:\Visual studio\Project\HotSport\HotSport\bin\Debug\HotSport.exe.config
+D:\Visual studio\Project\HotSport\HotSport\obj\Debug\HotSport.exe
+D:\Visual studio\Project\HotSport\HotSport\obj\Debug\HotSport.pdb
